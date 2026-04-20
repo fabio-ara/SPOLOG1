@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="264" height="754.36" viewBox="0 0 264 754.36">
+  <defs>
+    <pattern id="drawio-grid" width="10" height="10" patternUnits="userSpaceOnUse">
+      <path d="M 10 0 L 0 0 0 10" fill="none" stroke="#e5e5e5" stroke-width="1" />
+    </pattern>
+    <filter id="drawio-shadow" x="-20%" y="-20%" width="160%" height="160%">
+      <feDropShadow dx="2" dy="2" stdDeviation="1.4" flood-color="#000000" flood-opacity="0.22" />
+    </filter>
+    <marker id="arrow-end" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#000000" />
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="100%" height="100%" fill="#ffffff" />
+  <rect x="0" y="0" width="100%" height="100%" fill="url(#drawio-grid)" />
+  <g fill="none" stroke="#000000" stroke-width="1.5">
+    <path d="M 132 91.5 L 132 128.5" marker-end="url(#arrow-end)" />
+    <path d="M 132 196 L 132 243.12" marker-end="url(#arrow-end)" />
+    <path d="M 132 300.5 L 132 337.5" marker-end="url(#arrow-end)" />
+    <path d="M 132 405 L 132 452.12" marker-end="url(#arrow-end)" />
+    <path d="M 132 509.5 L 132 546.5" marker-end="url(#arrow-end)" />
+    <path d="M 132 614 L 132 651" marker-end="url(#arrow-end)" />
+    <path d="M 132 718.5 L 132 731.36" marker-end="url(#arrow-end)" />
+  </g>
+  <g fill="#ffffff" stroke="#000000" stroke-width="1.5" filter="url(#drawio-shadow)">
+    <rect x="24" y="24" width="216" height="67.5" rx="33.75" ry="33.75" />
+    <path d="M 54 128.5 L 206.25 128.5 Q 240 128.5 240 162.25 Q 240 196 206.25 196 L 54 196 L 24 162.25 Z" />
+    <polygon points="24,253.25 240,233 240,300.5 24,300.5" />
+    <path d="M 54 337.5 L 206.25 337.5 Q 240 337.5 240 371.25 Q 240 405 206.25 405 L 54 405 L 24 371.25 Z" />
+    <polygon points="24,462.25 240,442 240,509.5 24,509.5" />
+    <rect x="24" y="546.5" width="216" height="67.5" />
+    <rect x="24" y="651" width="216" height="67.5" />
+  </g>
+  <g fill="#000000" font-family="Helvetica, Arial, sans-serif">
+    <text x="132" y="61.95" text-anchor="middle" font-size="12">
+      <tspan x="132" dy="0">Início</tspan>
+    </text>
+    <text x="132" y="159.45" text-anchor="middle" font-size="12">
+      <tspan x="132" dy="0">&quot;Informe valor do salário</tspan>
+      <tspan x="132" dy="14">mínimo em R$: &quot;</tspan>
+    </text>
+    <text x="132" y="270.95" text-anchor="middle" font-size="12">
+      <tspan x="132" dy="0">salario_minimo</tspan>
+    </text>
+    <text x="132" y="361.45" text-anchor="middle" font-size="12">
+      <tspan x="132" dy="0">&quot;Informe quantidade de</tspan>
+      <tspan x="132" dy="14">quilowatts gasta pela</tspan>
+      <tspan x="132" dy="14">residência: &quot;</tspan>
+    </text>
+    <text x="132" y="479.95" text-anchor="middle" font-size="12">
+      <tspan x="132" dy="0">quantidade_quilowatts</tspan>
+    </text>
+    <text x="132" y="577.45" text-anchor="middle" font-size="12">
+      <tspan x="132" dy="0">valor_quilowatt &lt;-</tspan>
+      <tspan x="132" dy="14">salario_minimo / 1000</tspan>
+    </text>
+    <text x="132" y="674.95" text-anchor="middle" font-size="12">
+      <tspan x="132" dy="0">valor_a_pagar &lt;-</tspan>
+      <tspan x="132" dy="14">valor_quilowatt *</tspan>
+      <tspan x="132" dy="14">quantidade_quilowatts</tspan>
+    </text>
+    <circle cx="132" cy="743.36" r="9" fill="#ffffff" stroke="#000000" stroke-width="1.5" filter="url(#drawio-shadow)" />
+    <text x="132" y="747.36" text-anchor="middle" font-size="11" font-family="Helvetica, Arial, sans-serif">1</text>
+  </g>
+</svg>

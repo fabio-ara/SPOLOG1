@@ -1,6 +1,6 @@
 # Lista 03
 
-Esta pasta reúne os exercícios da Lista 03 da disciplina de Lógica de Programação I.
+Esta pasta reúne os exercícios da Lista 03 da disciplina de Lógica de Programação 1.
 
 ## Conteúdo
 

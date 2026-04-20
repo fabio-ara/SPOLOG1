@@ -1,6 +1,6 @@
 # Lista 02
 
-Esta pasta reúne os exercícios da Lista 02 da disciplina de Lógica de Programação I.
+Esta pasta reúne os exercícios da Lista 02 da disciplina de Lógica de Programação 1.
 
 ## Conteúdo
 

@@ -1,6 +1,6 @@
 # SPOLOG1
 
-Repositório da disciplina de Lógica de Programação I do IFSP São Paulo.
+Repositório da disciplina de Lógica de Programação 1 do IFSP São Paulo.
 
 Este repositório reúne os exercícios desenvolvidos ao longo da disciplina, com os artefatos pedidos em cada atividade, como fluxogramas, algoritmos em Visualg, implementações em C e PDFs finais das listas entregues.
 
@@ -21,6 +21,7 @@ Cada exercício pode conter, conforme o caso:
 - `algoritmo.alg`
 - `fluxograma.drawio`
 - `fluxograma.svg`
+- `fluxograma.png`
 - `programa.c`
 - imagens de execução
 - arquivos finais de entrega em PDF
