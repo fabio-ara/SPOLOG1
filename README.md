@@ -1,6 +1,6 @@
 # SPOLOG1
 
-Repositório da disciplina de Lógica de Programação 1 do IFSP São Paulo.
+Repositório público para a disciplina de Lógica de Programação 1, ofertada no 1º semestre de 2026 e ministrada pelo Prof. Dr. Francisco Veríssimo Luciano, no curso de Tecnologia em Análise e Desenvolvimento de Sistemas do IFSP-SP.
 
 Este repositório reúne os exercícios desenvolvidos ao longo da disciplina, com os artefatos pedidos em cada atividade, como fluxogramas, algoritmos em Visualg, implementações em C e PDFs finais das listas entregues.
 
