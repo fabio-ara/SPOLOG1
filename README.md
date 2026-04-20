@@ -1,14 +1,36 @@
 # SPOLOG1
 
-Este repositório foi criado para reunir os materiais da disciplina de Lógica de Programação I.
+Repositório da disciplina de Lógica de Programação I do IFSP São Paulo.
 
-A ideia é manter aqui os exercícios desenvolvidos ao longo da disciplina, de forma organizada e fácil de consultar depois, tanto para estudo quanto para registro da minha trajetória no curso.
+Este repositório reúne os exercícios desenvolvidos ao longo da disciplina, com os artefatos pedidos em cada atividade, como fluxogramas, algoritmos em Visualg, implementações em C e PDFs finais das listas entregues.
 
-Neste momento, o repositório está em fase inicial de organização. A estrutura interna será definida à medida que os exercícios forem sendo trazidos para cá.
+## Organização
 
-## Objetivo
+O material está organizado por listas. Dentro de cada lista, os exercícios ficam separados em pastas próprias, para manter juntos o enunciado e os arquivos correspondentes a cada resolução.
 
-- centralizar os exercícios da disciplina em um único repositório;
-- preservar o histórico de estudo e revisão;
-- manter uma organização coerente com a progressão dos conteúdos trabalhados em aula.
+## Estrutura
 
+- `listas/`: listas da disciplina
+- `listas/lista-01/`: primeira lista
+- `listas/lista-02/`: segunda lista
+- `listas/lista-03/`: terceira lista
+
+Cada exercício pode conter, conforme o caso:
+
+- `enunciado.md`
+- `algoritmo.alg`
+- `fluxograma.drawio`
+- `fluxograma.svg`
+- `programa.c`
+- imagens de execução
+- arquivos finais de entrega em PDF
+
+## Listas
+
+- [Lista 01](./listas/lista-01/README.md)
+- [Lista 02](./listas/lista-02/README.md)
+- [Lista 03](./listas/lista-03/README.md)
+
+## Observação
+
+Os arquivos foram organizados de forma a preservar tanto o material entregue quanto a evolução do estudo ao longo da disciplina.
