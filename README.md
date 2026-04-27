@@ -14,6 +14,7 @@ O material está organizado por listas. Dentro de cada lista, os exercícios fic
 - `listas/lista-01/`: primeira lista
 - `listas/lista-02/`: segunda lista
 - `listas/lista-03/`: terceira lista
+- `listas/lista-04/`: quarta lista
 
 Cada exercício pode conter, conforme o caso:
 
@@ -31,6 +32,7 @@ Cada exercício pode conter, conforme o caso:
 - [Lista 01](./listas/lista-01/README.md)
 - [Lista 02](./listas/lista-02/README.md)
 - [Lista 03](./listas/lista-03/README.md)
+- [Lista 04](./listas/lista-04/README.md)
 
 ## Observação
 

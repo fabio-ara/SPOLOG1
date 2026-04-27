@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1227.3" height="970.8" viewBox="0 0 1227.3 970.8">
+  <defs>
+    <pattern id="drawio-grid" width="10" height="10" patternUnits="userSpaceOnUse">
+      <path d="M 10 0 L 0 0 0 10" fill="none" stroke="#e5e5e5" stroke-width="1" />
+    </pattern>
+    <filter id="drawio-shadow" x="-20%" y="-20%" width="160%" height="160%">
+      <feDropShadow dx="2" dy="2" stdDeviation="1.4" flood-color="#000000" flood-opacity="0.22" />
+    </filter>
+    <marker id="arrow-end" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#000000" />
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="100%" height="100%" fill="#ffffff" />
+  <rect x="0" y="0" width="100%" height="100%" fill="url(#drawio-grid)" />
+  <g fill="none" stroke="#000000" stroke-width="1.5">
+    <path d="M 754.66 23 L 754.66 53" marker-end="url(#arrow-end)" />
+    <path d="M 508.9 23 L 508.9 38" marker-end="url(#arrow-end)" />
+    <path d="M 573.9 78 L 631.78 78 L 631.78 161" marker-end="url(#arrow-end)" />
+    <rect x="574.31" y="58" width="31.6" height="16" fill="#ffffff" stroke="none" />
+    <text x="590.11" y="70" text-anchor="middle" font-size="12" font-family="Helvetica, Arial, sans-serif">Sim</text>
+    <path d="M 443.9 78 L 386.02 78 L 386.02 161" marker-end="url(#arrow-end)" />
+    <rect x="411.89" y="58" width="31.6" height="16" fill="#ffffff" stroke="none" />
+    <text x="427.69" y="70" text-anchor="middle" font-size="12" font-family="Helvetica, Arial, sans-serif">Não</text>
+    <path d="M 1000.42 730 L 1000.42 809" marker-end="url(#arrow-end)" />
+    <path d="M 631.78 211 L 631.78 240 L 512.9 240" marker-end="url(#arrow-end)" />
+    <path d="M 386.02 211 L 386.02 240 L 504.9 240" marker-end="url(#arrow-end)" />
+    <path d="M 508.9 244 L 508.9 348 L 627.78 348" marker-end="url(#arrow-end)" />
+    <path d="M 754.66 103 L 754.66 348 L 635.78 348" marker-end="url(#arrow-end)" />
+    <path d="M 631.78 352 L 631.78 456 L 750.66 456" marker-end="url(#arrow-end)" />
+    <path d="M 877.54 23 L 877.54 456 L 758.66 456" marker-end="url(#arrow-end)" />
+    <path d="M 754.66 460 L 754.66 564 L 873.54 564" marker-end="url(#arrow-end)" />
+    <path d="M 1000.42 23 L 1000.42 564 L 881.54 564" marker-end="url(#arrow-end)" />
+    <path d="M 877.54 568 L 877.54 672 L 996.42 672" marker-end="url(#arrow-end)" />
+    <path d="M 1123.3 23 L 1123.3 672 L 1004.42 672" marker-end="url(#arrow-end)" />
+    <path d="M 1000.42 676 L 1000.42 722" marker-end="url(#arrow-end)" />
+    <path d="M 104 23 L 104 875.2 L 292 875.2" marker-end="url(#arrow-end)" />
+    <path d="M 1000.42 859 L 1000.42 875.2 L 300 875.2" marker-end="url(#arrow-end)" />
+    <path d="M 296 879.2 L 296 896.8" marker-end="url(#arrow-end)" />
+  </g>
+  <g fill="#ffffff" stroke="#000000" stroke-width="1.5" filter="url(#drawio-shadow)">
+    <rect x="674.66" y="53" width="160" height="50" />
+    <polygon points="508.9,38 573.9,78 508.9,118 443.9,78" />
+    <rect x="551.78" y="161" width="160" height="50" />
+    <rect x="306.02" y="161" width="160" height="50" />
+    <circle cx="1000.42" cy="726" r="4" />
+    <path d="M 946.02 809 L 1055.42 809 Q 1080.42 809 1080.42 834 Q 1080.42 859 1055.42 859 L 946.02 859 L 920.42 834 Z" />
+    <rect x="216" y="896.8" width="160" height="50" rx="25" ry="25" />
+    <circle cx="508.9" cy="240" r="4" />
+    <circle cx="631.78" cy="348" r="4" />
+    <circle cx="754.66" cy="456" r="4" />
+    <circle cx="877.54" cy="564" r="4" />
+    <circle cx="1000.42" cy="672" r="4" />
+    <circle cx="296" cy="875.2" r="4" />
+  </g>
+  <g fill="#000000" font-family="Helvetica, Arial, sans-serif">
+    <text x="754.66" y="75.2" text-anchor="middle" font-size="12">
+      <tspan x="754.66" dy="0">classificacao &lt;-</tspan>
+      <tspan x="754.66" dy="14">&quot;obesidade grau 1&quot;</tspan>
+    </text>
+    <text x="508.9" y="82.2" text-anchor="middle" font-size="12">
+      <tspan x="508.9" dy="0">imc &lt;= 39.9?</tspan>
+    </text>
+    <text x="631.78" y="183.2" text-anchor="middle" font-size="12">
+      <tspan x="631.78" dy="0">classificacao &lt;-</tspan>
+      <tspan x="631.78" dy="14">&quot;obesidade grau 2&quot;</tspan>
+    </text>
+    <text x="386.02" y="183.2" text-anchor="middle" font-size="12">
+      <tspan x="386.02" dy="0">classificacao &lt;-</tspan>
+      <tspan x="386.02" dy="14">&quot;obesidade extrema&quot;</tspan>
+    </text>
+    <text x="1000.42" y="831.2" text-anchor="middle" font-size="12">
+      <tspan x="1000.42" dy="0">&quot;Classificação: &quot; +</tspan>
+      <tspan x="1000.42" dy="14">classificacao</tspan>
+    </text>
+    <text x="296" y="926" text-anchor="middle" font-size="12">
+      <tspan x="296" dy="0">Fim</tspan>
+    </text>
+    <circle cx="754.66" cy="11" r="9" fill="#ffffff" stroke="#000000" stroke-width="1.5" filter="url(#drawio-shadow)" />
+    <text x="754.66" y="15" text-anchor="middle" font-size="11" font-family="Helvetica, Arial, sans-serif">3</text>
+    <circle cx="508.9" cy="11" r="9" fill="#ffffff" stroke="#000000" stroke-width="1.5" filter="url(#drawio-shadow)" />
+    <text x="508.9" y="15" text-anchor="middle" font-size="11" font-family="Helvetica, Arial, sans-serif">2</text>
+    <circle cx="877.54" cy="11" r="9" fill="#ffffff" stroke="#000000" stroke-width="1.5" filter="url(#drawio-shadow)" />
+    <text x="877.54" y="15" text-anchor="middle" font-size="11" font-family="Helvetica, Arial, sans-serif">4</text>
+    <circle cx="1000.42" cy="11" r="9" fill="#ffffff" stroke="#000000" stroke-width="1.5" filter="url(#drawio-shadow)" />
+    <text x="1000.42" y="15" text-anchor="middle" font-size="11" font-family="Helvetica, Arial, sans-serif">5</text>
+    <circle cx="1123.3" cy="11" r="9" fill="#ffffff" stroke="#000000" stroke-width="1.5" filter="url(#drawio-shadow)" />
+    <text x="1123.3" y="15" text-anchor="middle" font-size="11" font-family="Helvetica, Arial, sans-serif">6</text>
+    <circle cx="104" cy="11" r="9" fill="#ffffff" stroke="#000000" stroke-width="1.5" filter="url(#drawio-shadow)" />
+    <text x="104" y="15" text-anchor="middle" font-size="11" font-family="Helvetica, Arial, sans-serif">1</text>
+  </g>
+</svg>
