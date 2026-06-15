@@ -22,7 +22,15 @@ Estrutura principal:
 ├── README.md
 ├── manual.md
 └── listas/
-    └── lista-XX/
+    ├── lista-01/
+    ├── lista-02/
+    ├── lista-03/
+    ├── lista-04/
+    ├── lista-05/
+    ├── lista-06/
+    ├── lista-07/
+    ├── lista-08/
+    └── lista-09/
         ├── README.md
         ├── entrega/
         └── exercicios/
