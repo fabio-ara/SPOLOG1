@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="292.48" height="656.99" viewBox="0 0 292.48 656.99">
+  <defs>
+    <pattern id="drawio-grid" width="10" height="10" patternUnits="userSpaceOnUse">
+      <path d="M 10 0 L 0 0 0 10" fill="none" stroke="#e5e5e5" stroke-width="1" />
+    </pattern>
+    <filter id="drawio-shadow" x="-20%" y="-20%" width="160%" height="160%">
+      <feDropShadow dx="2" dy="2" stdDeviation="1.4" flood-color="#000000" flood-opacity="0.22" />
+    </filter>
+    <marker id="arrow-end" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#000000" />
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="100%" height="100%" fill="#ffffff" />
+  <rect x="0" y="0" width="100%" height="100%" fill="url(#drawio-grid)" />
+  <g fill="none" stroke="#000000" stroke-width="1.5">
+    <path d="M 146.24 20 L 146.24 67.19" marker-end="url(#arrow-end)" />
+    <path d="M 146.24 117.19 L 146.24 174.19" marker-end="url(#arrow-end)" />
+    <path d="M 146.24 224.19 L 146.24 281.19" marker-end="url(#arrow-end)" />
+    <path d="M 146.24 331.19 L 146.24 388.19" marker-end="url(#arrow-end)" />
+    <path d="M 66.24 413.19 L 24 413.19 L 24 20" marker-end="url(#arrow-end)" />
+    <path d="M 268.48 20 L 268.48 457.09 L 146.24 457.09 L 146.24 475.99" marker-end="url(#arrow-end)" />
+    <path d="M 146.24 525.99 L 146.24 582.99" marker-end="url(#arrow-end)" />
+  </g>
+  <g fill="#ffffff" stroke="#000000" stroke-width="1.5" filter="url(#drawio-shadow)">
+    <rect x="66.24" y="67.19" width="160" height="50" />
+    <rect x="66.24" y="174.19" width="160" height="50" />
+    <rect x="66.24" y="281.19" width="160" height="50" />
+    <rect x="66.24" y="388.19" width="160" height="50" />
+    <path d="M 91.84 475.99 L 201.24 475.99 Q 226.24 475.99 226.24 500.99 Q 226.24 525.99 201.24 525.99 L 91.84 525.99 L 66.24 500.99 Z" />
+    <rect x="66.24" y="582.99" width="160" height="50" rx="25" ry="25" />
+  </g>
+  <g fill="#000000" font-family="Helvetica, Arial, sans-serif">
+    <text x="146.24" y="96.39" text-anchor="middle" font-size="12">
+      <tspan x="146.24" dy="0">k &lt;- k + 1</tspan>
+    </text>
+    <text x="146.24" y="203.39" text-anchor="middle" font-size="12">
+      <tspan x="146.24" dy="0">C[k] &lt;- B[i]</tspan>
+    </text>
+    <text x="146.24" y="310.39" text-anchor="middle" font-size="12">
+      <tspan x="146.24" dy="0">k &lt;- k + 1</tspan>
+    </text>
+    <text x="146.24" y="417.39" text-anchor="middle" font-size="12">
+      <tspan x="146.24" dy="0">i &lt;- i + 1</tspan>
+    </text>
+    <text x="146.24" y="498.19" text-anchor="middle" font-size="12">
+      <tspan x="146.24" dy="0">&quot;Exibir vetores A,</tspan>
+      <tspan x="146.24" dy="14">B e C&quot;</tspan>
+    </text>
+    <text x="146.24" y="612.19" text-anchor="middle" font-size="12">
+      <tspan x="146.24" dy="0">Fim</tspan>
+    </text>
+    <circle cx="146.24" cy="11" r="9" fill="#ffffff" stroke="#000000" stroke-width="1.5" filter="url(#drawio-shadow)" />
+    <text x="146.24" y="15" text-anchor="middle" font-size="11" font-family="Helvetica, Arial, sans-serif">4</text>
+    <circle cx="24" cy="11" r="9" fill="#ffffff" stroke="#000000" stroke-width="1.5" filter="url(#drawio-shadow)" />
+    <text x="24" y="15" text-anchor="middle" font-size="11" font-family="Helvetica, Arial, sans-serif">6</text>
+    <circle cx="268.48" cy="11" r="9" fill="#ffffff" stroke="#000000" stroke-width="1.5" filter="url(#drawio-shadow)" />
+    <text x="268.48" y="15" text-anchor="middle" font-size="11" font-family="Helvetica, Arial, sans-serif">5</text>
+  </g>
+</svg>
